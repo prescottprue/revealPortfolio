@@ -1,0 +1,21 @@
+{
+  "name": "revealPortfolio",
+  "version": "1.0.0",
+  "description": "Portfolio sample built with RevealJS and AngularJS.",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/prescottprue/revealPortfolio"
+  },
+  "keywords": [
+    "Revealjs",
+    "Reveal",
+    "Angular",
+    "Portfolio"
+  ],
+  "author": "Prescott Prue <sprue.dev@gmail.com> (http://prescottprue.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prescottprue/revealPortfolio/issues"
+  },
+  "homepage": "https://github.com/prescottprue/revealPortfolio"
+}
